@@ -1,1 +1,0 @@
-sidebarNodes={"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"exceptions":[],"modules":[{"id":"Sht31gs","title":"Sht31gs","functions":[{"id":"read/0","anchor":"read/0"},{"id":"start/1","anchor":"start/1"},{"id":"stop/0","anchor":"stop/0"}]}],"protocols":[]}
