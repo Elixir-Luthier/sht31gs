@@ -15,6 +15,10 @@ defmodule Sht31gs do
   @doc """
   """
 
+  def start_link(addr) do
+    start(addr)
+  end
+
   def start(addr) do
      GenServer.start_link(__MODULE__, [addr: addr ], [name: :sht31gs, timeout: 5000])
   end
